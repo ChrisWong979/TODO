@@ -6,8 +6,6 @@ https://disk.yandex.com/
 
 ## https://wizardforcel.gitbooks.io/gopl-zh/content/ch5/ch5-06.html
 
-- 練習 5.10： 重寫 topoSort 函數，用 map 代替切片併移除對 key 的排序代碼。驗證結果的正確性（結果不唯一）。
-
 - 練習 5.11： 現在線性代數的老師把微積分設爲了前置課程。完善 topSort，使其能檢測有向圖中的環。
 
 - 練習 5.12： gopl.io/ch5/outline2（5.5 節）的 startElement 和 endElement 共用了全局變量 depth，將它們脩改爲匿名函數，使其共享 outline 中的局部變量。
